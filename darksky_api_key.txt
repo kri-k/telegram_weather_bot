@@ -1,0 +1,1 @@
+Your key string from https://darksky.net/
